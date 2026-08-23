@@ -1,16 +1,15 @@
 {
   "response": [
     {
-      "maintainer": "swiitchOFF",
+      "maintainer": "0mar",
       "oem": "Xiaomi",
       "device": "vili",
-      "device": "vili",
-      "filename": "Lunaris-AOSP-vili-OFFICIAL-3.12-GMS-2026081809.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/vili/Lunaris-AOSP-vili-OFFICIAL-3.12-GMS-2026081809.zip/download",
-      "timestamp": 1787044284,
-      "md5": "32f84d0ffeb7fd9c4581fa38ca5116d9",
-      "sha256": "406934bab0527530835357a4dc6d69d91d7109a9a33f212ff8ee804fc4c8de72",
-      "size": 2781044097,
+      "filename": "Lunaris-AOSP-vili-Community-3.12-GMS-2026082308.zip",
+      "download": "https://sourceforge.net/projects/lunaris-vili/files/vili/Lunaris-AOSP-vili-Community-3.12-GMS-2026082308.zip/download",
+      "timestamp": 1787474253,
+      "md5": "128c0528fe4ebebaca204b20affe794c",
+      "sha256": "3d9ff19adf54c918417c2f63c3d63c4cf355a18b06f25d6b1f56a5686f807969",
+      "size": 3162816782,
       "version": "3.12",
       "os_patch_level": "2026-08-01",
       "os_sdk_level": 36,
@@ -21,11 +20,11 @@
       "modem": "",
       "bootloader": "",
       "recovery": "",
-      "paypal": "https://buymeacoffee.com/iamswiitchoff",
-      "telegram": "https://t.me/newopensource",
-      "dt": "https://github.com/Spanish-or-Vanish/device_xiaomi_vili",
-      "common-dt": "https://github.com/Spanish-or-Vanish/android_device_xiaomi_sm8350-common",
-      "kernel": "https://github.com/Spanish-or-Vanish/kernel_xiaomi_sm8350"
+      "paypal": "https://www.paypal.com/paypalme/OmarA99",
+      "telegram": "https://t.me/Omar99A",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
     }
   ]
 }
