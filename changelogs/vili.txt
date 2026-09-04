@@ -1,6 +1,10 @@
 Device Changelog
 =========
 
+09/4/2026
+----------
+- Synced latest source changes
+
 08/23/2026
 ----------
 - Initial release: Inlcudes Dolby Atmos, MIUI Camera, Flashlight Control, etc...
