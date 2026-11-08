@@ -1,6 +1,13 @@
 Device Changelog
 =========
 
+11/08/2026
+----------
+- Synced latest source changes
+- Merged latest device and kernel changes from lineage
+- Fixed Kamis Stuff kernel manager issues
+- Added BCR
+
 09/4/2026
 ----------
 - Synced latest source changes
