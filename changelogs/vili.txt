@@ -1,6 +1,12 @@
 Device Changelog
 =========
 
+11/14/2026
+----------
+- Synced latest source changes
+- Adjusted portrait status bar width for better compatibility with Lunaris Bar
+- Kernel: Fixed audio HAL death after the device has been idle for an extended period of time
+
 11/08/2026
 ----------
 - Synced latest source changes
